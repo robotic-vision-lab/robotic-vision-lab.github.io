@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+
+use_text_title: false
+
+show_downloads: false
+
+
+
+uistring:
+    title: Robotic Vision Lab
+    copyright: Robotic Vision Lab
